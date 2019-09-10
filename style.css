@@ -1,0 +1,9 @@
+.dlt {
+  background-color: none;
+  color: red;
+  outline: none;
+}
+
+li {
+  list-style-type: none;
+}
